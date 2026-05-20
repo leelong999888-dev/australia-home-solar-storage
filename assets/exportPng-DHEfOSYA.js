@@ -1,0 +1,1 @@
+import{t as n}from"./exportImage-Br7REqB6.js";async function c(t,a="solar-storage-dashboard.png"){if(!t)return;const r=await n(t,{cacheBust:!0,backgroundColor:"#f6f4ef",pixelRatio:2}),o=document.createElement("a");o.href=r,o.download=a,o.click()}export{c as exportElementPng};
